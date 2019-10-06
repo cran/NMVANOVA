@@ -1,0 +1,11 @@
+1a00941dcaec3c152e7e4ce11a4136cb *DESCRIPTION
+49c69a7b05609b5826ad4c5a3312b24e *NAMESPACE
+784f5f90568b190e80fc7ecb2f1e0d07 *R/Block_Design_function.R
+2664792eb480afdf44f3b534ddde0bdc *R/Complete_Random_Function.R
+b8dde751f4254c7ddc07ac55cdd52e42 *R/Factorial_Design.R
+b0b8a5250fe2ca934382725774923de5 *R/repeated_measures_function.R
+58f28c62b0a4fbc78a7f7ededaa11470 *README.md
+76c1a89afd013a9ab0944b3e1cef084f *man/Block_Design.Rd
+88910c3674c4cf3a731a0ce27450f18b *man/CRD.Rd
+d3bad7554333c36c137ed85ea968ccad *man/Factorial_Design.Rd
+a5d8b568136cd8c0963eb3012d6336f1 *man/One_Way_Manova.Rd
